@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://github.com/luckzdev/luckzdev/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
   <br>
   <br>
   <br>
